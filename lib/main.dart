@@ -6,7 +6,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('I  am Rich'),
+          title: Text('I am Rich'),
           centerTitle: true,
         ),
         body: Center(
